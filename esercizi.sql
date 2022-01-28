@@ -1,3 +1,4 @@
+--commit per generare un conflitto aljkfdshjsjfsjfd
 --1. Creare un database con Postgresql chiamato "pizzeria_da_luigi" utilizzando PgAdmin (o un client a tua scelta)
  
 --2 All'interno del database crea una una tabella "ordine"
